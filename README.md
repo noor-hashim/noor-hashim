@@ -1,3 +1,5 @@
+![Noor Hashim GitHub Banner](./github-banner.jpg)
+
 # Hi 👋, I'm Noor Hashim
 A passionate Computer Science Student from Pakistan
 
